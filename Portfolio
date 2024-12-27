@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/Logo2.png">
+    <title>Home</title>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+      <div class="nav nav-pills" id="pills-tab" role="tablist">
+        <div class="nav-item">
+          <a class="nav-link active" id="pills-home-tab" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Home</a>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link" id="pills-about-tab" href="#pills-about" role="tab" aria-controls="pills-about" aria-selected="false">About</a>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link" id="pills-contact-tab" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Contact</a>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link" id="pills-service-tab"  href="#pills-service" role="tab" aria-controls="pills-service" aria-selected="true">Service</a>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link" id="pills-portfolio-tab" href="#pills-portfolio" role="tab" aria-controls="pills-porfolio" aria-selected="false">Portfolio</a>
+        </div>
+      </div>
+    </nav>
+  <div class="tab-content" id="pills-tabContent">
+    <!---Home Page-->
+    <div class="tab-pane active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+      <div class="container-home" id="Home-container">
+ <h1>home</h1>
+      </div>  
+    </div>
+    <!--About Page-->
+    <div class="tab-pane" id="pills-about" role="tabpanel" aria-labelledby="pills-about-tab">
+      <div class="container-about" id="about-container">
+ <h1>about</h1>
+      </div>  
+    </div>  xfvx
+
+    </div>
+
+    <!--Contact Page-->
+<div style="margin-bottom: 10%;" ></div>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="script.js"></script>
+</body>
+</html>
+# Portfolio
